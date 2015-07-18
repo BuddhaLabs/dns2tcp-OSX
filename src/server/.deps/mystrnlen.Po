@@ -1,0 +1,1 @@
+mystrnlen.o: ../common/mystrnlen.c
